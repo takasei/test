@@ -22,7 +22,9 @@ void main(void)
 {
 	int aData[MAX_DATA];
 
-	printf("こんいちは");
+	printf("こんいちは\n");
+
+	printf("私の名前はフライド・ポテトです。");
 
 	//キー入力待ち
 	rewind(stdin);
